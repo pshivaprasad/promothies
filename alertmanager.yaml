@@ -1,5 +1,5 @@
 global:
-  slack_api_url: 'enter your webhook URL here. Leave the quote marks in place'
+  slack_api_url: 'https://hooks.slack.com/services/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'
 route:
   group_by: ['alertname']
   group_wait: 5s
